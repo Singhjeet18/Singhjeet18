@@ -4,7 +4,7 @@ Hi, I’m @Singhjeet18 👋
 DevOps, Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), and automation.
 
 🌱 I’m currently learning
-Advanced techniques in Jenkins, Docker orchestration, and Kubernetes.
+Advanced techniques in Jenkins, Docker orchestration, and Kubernetes Azure.
 
 💞️ I’m looking to collaborate on
 Open-source DevOps projects, automation scripts, and innovative solutions for CI/CD pipelines.
@@ -24,7 +24,7 @@ I can deploy a complete CI/CD pipeline faster than making a cup of coffee!
 ## DevOps Skills and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,maven,jenkins,tomcat" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,maven,jenkins,terraform,linux,aws,azure" />
   </a>
 </p>
 
